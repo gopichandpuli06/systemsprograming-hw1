@@ -390,7 +390,7 @@ int main(){
             }
             printf("Number of advisors= %d\n", count);
             for(int l=0;strlen(s3[l].advis)!=0;l++){
-                //dont unhide below once it is tested
+                
                 printf("advisor=%s", s3[l].advis);
                 
             }
