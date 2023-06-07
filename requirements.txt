@@ -1,2 +1,2 @@
 python-magic==0.4.26
-dnspython==2.2.3
+dnspython==2.2.4
